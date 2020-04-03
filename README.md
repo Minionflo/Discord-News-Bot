@@ -1,4 +1,4 @@
-You need Node.js 
+You need Node.js. 
 To install the Bot open a console and navigate to the bot folder.
 Then type npm install to install the Bot
 You must change the config.json
