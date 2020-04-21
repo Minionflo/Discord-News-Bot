@@ -2,7 +2,6 @@
     "token": "token",
     "owner":  "ownerid",
     "prefix": "!",
-    "serverid": "serverid",
     "channelidsend": "ID of the send Channel",
     "status": "status",
     "statustype": "PLAYING, STREAMING, LISTENING or WATCHING"
